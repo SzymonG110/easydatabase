@@ -27,7 +27,7 @@ module.exports = class EasyDB {
     set(key, value) {
         this.data[key] = value;
         this.save();
-    }
+    } 
 
     push(key, element) {
         if (!this.data[key]) this.data[key] = [];
