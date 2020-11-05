@@ -4,7 +4,7 @@
 ## Example
 
 ```js
-const EasyDB = require("easydb");
+const EasyDB = require("easydatabase");
 const db = new EasyDB("./some-database.json");
 
 // Set data
