@@ -1,5 +1,5 @@
 {
-    "name": "easydb",
+    "name": "easydatabase",
     "version": "1.0.0",
     "description": "Easy database using json.",
     "main": "index.js",
