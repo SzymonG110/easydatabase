@@ -1,0 +1,9 @@
+{
+    "name": "easydb",
+    "version": "1.0.0",
+    "description": "Easy database using json.",
+    "main": "index.js",
+    "repository": "git+github.com/SzymonG110/easydb.git",
+    "author": "SzymonG110#2137",
+    "license": "MIT"
+}
