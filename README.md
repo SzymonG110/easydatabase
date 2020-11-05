@@ -1,4 +1,4 @@
-# EasyDB
+# EasyDatabase
 
 
 ## Example
