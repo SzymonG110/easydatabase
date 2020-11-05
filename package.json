@@ -1,6 +1,6 @@
 {
     "name": "@szymong110/easydatabase",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "description": "Easy database using json.",
     "main": "index.js",
     "repository": "git+github.com/SzymonG110/easydb.git",
