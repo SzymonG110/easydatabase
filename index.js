@@ -27,11 +27,18 @@ module.exports = class EasyDB {
     set(key, value) {
         this.data[key] = value;
         this.save();
-    } 
+    }
 
     push(key, element) {
         if (!this.data[key]) this.data[key] = [];
         this.data[key].push(element);
+        this.save();
+    }
+
+    depush(key, element) {
+        if (!this.data[key]) return
+        const pos = this.data[key].indexOf(element)
+        this.data[key].splice(pos, 1)
         this.save();
     }
 
