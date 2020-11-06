@@ -35,6 +35,9 @@ db.set("array", [ "apple" ]);
 // Push to data
 db.push("array", "orange"); // [ "apple", "orange" ]
 
+// Slice from data
+db.depush("array", "apple"); // [ "orange" ]
+
 // Clear all data
 db.clear();
 ```
