@@ -1,9 +1,25 @@
 {
-    "name": "@szymong110/easydatabase",
-    "version": "1.2.0",
-    "description": "Easy database using json.",
-    "main": "index.js",
-    "repository": "git+github.com/SzymonG110/easydb.git",
-    "author": "SzymonG110#2137",
-    "license": "MIT"
+  "name": "@szymong110/easydatabase",
+  "version": "1.3.0",
+  "description": "Easy database using json.",
+  "main": "index.js",
+  "repository": "git+https://github.com/SzymonG110/easydatabase.git",
+  "author": "SzymonG110",
+  "license": "MIT",
+  "keywords": [
+    "database",
+    "json",
+    "db",
+    "easy",
+    "easydb",
+    "quick",
+    "mongodb",
+    "mongoose",
+    "data",
+    "nosql",
+    "datastore",
+    "store",
+    "storage",
+    "storing"
+  ]
 }
